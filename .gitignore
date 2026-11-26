@@ -1,0 +1,9 @@
+/target
+plugins/claim/.venv/
+__pycache__/
+*.db
+*.db-*
+*.db.*
+*.log
+/graph.txt
+/config.toml

@@ -1,0 +1,4 @@
+dockerfile==3.4.0
+PyYAML==6.0.3
+python-dotenv==1.2.2
+parameter-expansion-patched==0.3.1
